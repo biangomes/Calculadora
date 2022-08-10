@@ -10,6 +10,7 @@ print(f'{x} - {y} = {x - y}')
 # Multiplicacao
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 print(f'{x} x {y} = {x * y}')
 
 # Divisao
@@ -23,3 +24,9 @@ print(f'{x} x {y} = {x * y}')
 # Divisao
 print(f'{x} / {y} = {x + y}')
 >>>>>>> 587c7ce (implementar a divisao entre dois numeros de forma errada propositalmente (#4))
+=======
+print(f'{x} x {y} = {x * y}')
+
+# Divisao
+print(f'{x} / {y} = {x + y}')
+>>>>>>> 13a5f19eb07e58901df4494b4f1454c9a59aace1
